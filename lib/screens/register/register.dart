@@ -101,7 +101,7 @@ class RegisterScreen extends StatelessWidget {
                   ),
                   padding: const EdgeInsets.all(0),
                   child: Text(
-                    "SIGN UP1",
+                    "SIGN UP",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontWeight: FontWeight.bold
