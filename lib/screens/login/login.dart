@@ -107,7 +107,7 @@ class LoginScreen extends StatelessWidget {
                   Navigator.push(context, MaterialPageRoute(builder: (context) => RegisterScreen()))
                 },
                 child: Text(
-                  "Don't Have an Account? Sign up",
+                  "Don't Have an Account? create one",
                   style: TextStyle(
                     fontSize: 12,
                     fontWeight: FontWeight.bold,
